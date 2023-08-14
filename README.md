@@ -4,7 +4,7 @@
 Hello! I'm Rishabh, a passionate and dedicated full stack developer with expertise in a wide range of technologies. I have hands-on experience in React, Next.js, Electron, React Native, HTML, JavaScript, CSS, Sass, Python, Flask, Node.js, Express, and TypeScript. I love working on collaborative projects and always strive to deliver high-quality code.
 
 ## Skills
-- Frontend: React, Next.js, Electron, React Native, HTML, CSS, JavaScript, Sass, TypeScript
+- Frontend: React, Next.js, Electron, HTML, CSS, JavaScript, Sass, TypeScript
 - Backend: Python, Flask, Node.js, Express
 - Database: MongoDB, MySQL
 - Other: TypeScript, Git, RESTful APIs
