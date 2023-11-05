@@ -1,22 +1,25 @@
 # Rishabh - Full Stack Developer
+[Portfolio website](https://rishabhvoid.vercel.app/?view=about)
 
 ## About Me
-Hello! I'm Rishabh, a passionate and dedicated full stack developer with expertise in a wide range of technologies. I have hands-on experience in React, Next.js, Electron, React Native, HTML, JavaScript, CSS, Sass, Python, Flask, Node.js, Express, and TypeScript. I love working on collaborative projects and always strive to deliver high-quality code.
+Hoi, this is me! Couple of years ago I started making plugins for games I was playing and found out I loved the process of making those plugins more than playing the games themselves. I love the process of creating things like ui's, robots, pieces of software and that is what got me into being a developer. I'm self taught and have been learning for quite a while and am proud to say I can make entire full stack applications by myself. I'm always down for any kind of collaboration and meeting people who work in this industry.
 
 ## Skills
-- Frontend: React, Next.js, Electron, HTML, CSS, JavaScript, Sass, TypeScript
-- Backend: Python, Flask, Node.js, Express
-- Database: MongoDB, MySQL
-- Other: TypeScript, Git, RESTful APIs
+- Programming languages: TypeScript, JavaScript, Python, Rust (Still learning). 
+- Front-end technologies: ReactJs, NextJs, HTML, CSS, SASS, Styled-Components, TailwindCSS 
+- Back-end technologies: Express, NodeJs, Flask
+- Database: MongoDB, Firebase
+- Misc: Obsidian, Figma, Git
 
 ## Experience
-- Self-taught full stack developer (In practice for 4 years now)
+- Self-taught full stack developer
   - Developed and maintained responsive web applications using React and Next.js.
   - Developed full-stack applications with MERN and MFR (Mongo, Flask + Flask Restful, React)
-  - Utilized Electron to build desktop applications with web technologies.
+  - Experimented with multiple other technologies like Electron, React Native.
 
 ## Projects
-Will be added shortly...
+My projects can be seen at my portfolio website
+[Projects](https://rishabhvoid.vercel.app/?view=projects)
 
 ## Education
 - High School Diploma - Govt Co-Ed SV School (Year of Completion: 2023)
@@ -28,6 +31,6 @@ When I'm not coding, you'll find me indulging in my hobbies:
 - Exploring Design: In my free time, I like to browse Dribbble and explore different designs. Not only does this give me inspiration for my own designs, but it also keeps me updated on what's popular.
 
 ## Let's Collaborate!
-I'm always open to exciting collaboration opportunities. If you're interested in working together on a project or have any questions, feel free to reach out to me via [email](mailto:rishabhvoid@gmail.com).
+I'm always open to exciting collaboration opportunities. If you're interested in working together on a project or have any questions, feel free to reach out to me via [email](mailto:rishabhvoid@gmail.com) or shoot me a message directly from my website [Contact](https://rishabhvoid.vercel.app/?view=contact).
 
 Let's create something amazing together!
