@@ -2,7 +2,7 @@
 [Portfolio website](https://rishabhvoid.vercel.app/?view=about)
 
 ## About Me
-Hoi, this is me! Couple of years ago I started making plugins for games I was playing and found out I loved the process of making those plugins more than playing the games themselves. I love the process of creating things like ui's, robots, pieces of software and that is what got me into being a developer. I'm self taught and have been learning for quite a while and am proud to say I can make entire full stack applications by myself. I'm always down for any kind of collaboration and meeting people who work in this industry.
+Hello! A couple of years ago, I started making plugins for games I was playing and found out I loved the process of creating those plugins more than playing the games themselves. I enjoy designing UIs, building robots, and creating pieces of software, which led me to pursue a career as a developer. I am self-taught and have been learning for quite a while. I am proud to say that I can create entire full-stack applications independently. I am always open to collaborations and enjoy meeting people who work in this industry.
 
 ## Skills
 - Programming languages: TypeScript, JavaScript, Python, Rust (Still learning). 
