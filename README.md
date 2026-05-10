@@ -169,13 +169,6 @@ Salon management platform. Built the Partner Dashboard used daily by salon staff
 
 </div>
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=RishabhVoid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhVoid&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 ## 🎮 Outside Code
