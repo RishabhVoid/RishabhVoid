@@ -139,7 +139,7 @@ My solo dev practice. I take on contract work for international clients building
 ---
 
 ### StyleZen · Full Stack Developer · Jun – Aug 2025
-[StyleZen](https://stylezen.app) is an AI-powered outfit recommendation app live on Android and iOS with thousands of users. Worked on backend systems and AI integration pipeline.
+[StyleZen](https://play.google.com/store/search?q=stylezen&c=apps&hl=en_IN) is an AI-powered outfit recommendation app live on Android and iOS with thousands of users. Worked on backend systems and AI integration pipeline.
 
 `React Native` `Node.js` `Flask` `MongoDB` `Firebase` `OpenAI` `Python`
 
