@@ -30,10 +30,10 @@ I'm a self-taught full stack developer based in Delhi. I run **Infron**, my solo
 Started making game plugins a few years back. Loved building more than playing. Been at it ever since.
 
 - 🔭 Currently building production systems across web and mobile
-- 🤖 Integrating AI into real workflows with OpenAI, OpenCV and n8n
+- 🤖 Integrating AI into real workflows with OpenAI, Anthropic, LangChain, OpenCV and n8n
 - 🌱 Getting deeper into PyTorch, WebRTC and Web3
 - 💬 Ask me about full stack dev, DevOps, or AI integrations
-- 🤝 Open to collabs, internships and interesting problems
+- 🤝 Open to collabs, conrtract work and interesting problems
 
 ---
 
@@ -60,13 +60,15 @@ Started making game plugins a few years back. Loved building more than playing. 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 ### 🗄️ Databases and Storage
@@ -80,32 +82,35 @@ Started making game plugins a few years back. Loved building more than playing. 
 ### 🔗 ORMs and Query Tools
 
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
 ### ☁️ Cloud and Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
 ### 🔄 DevOps and CI/CD
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-7B3FE4?style=flat-square&logo=flydotio&logoColor=white)
 
 ### 🤖 AI and Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 
 ### 🔧 Tools
 
@@ -132,6 +137,7 @@ Started making game plugins a few years back. Loved building more than playing. 
 ## 💼 Experience
 
 ### Infron · Founder · Nov 2025 – Present
+
 My solo dev practice. I take on contract work for international clients building end-to-end production systems. Full ownership from architecture to deployment: APIs, third-party integrations, automation workflows, containerised infra, cloud deployments on AWS, GCP and DigitalOcean. Work is under NDA but happy to walk through it in person.
 
 `Docker` `Nginx` `GitHub Actions` `n8n` `AWS` `GCP` `DigitalOcean` `Redis` `PostgreSQL` `Node.js` `React` `MongoDB`
@@ -139,13 +145,15 @@ My solo dev practice. I take on contract work for international clients building
 ---
 
 ### StyleZen · Full Stack Developer · Jun – Aug 2025
+
 [StyleZen](https://play.google.com/store/search?q=stylezen&c=apps&hl=en_IN) is an AI-powered outfit recommendation app live on Android and iOS with thousands of users. Worked on backend systems and AI integration pipeline.
 
-`React Native` `Node.js` `Flask` `MongoDB` `Firebase` `OpenAI` `Python`
+`React Native` `Node.js` `Flask` `PostgreSQL` `OpenAI` `Python`
 
 ---
 
 ### Naai India · Full Stack Developer · Aug 2024 – Feb 2025
+
 Salon management platform. Built the Partner Dashboard used daily by salon staff for service management, real-time POS tracking, and appointment scheduling.
 
 `Next.js` `Tailwind CSS` `Node.js` `Express` `MongoDB` `Firebase`
@@ -157,17 +165,7 @@ Salon management platform. Built the Partner Dashboard used daily by salon staff
 - 🥉 **2nd Runner Up** at Code-A-Haunt National Hackathon, LPU Punjab
 - 🥇 **1st Position** at Internal SIH Screening
 - 🎓 **Vice President** at University Tech Club and DSA Club
-- 🏅 **Top 50** students selected across batch at Geeta University
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RishabhVoid&theme=tokyonight&hide_border=true)
-
-</div>
+- 🏅 **Top 50** students selected across batch at University
 
 ---
 
